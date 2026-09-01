@@ -38,5 +38,15 @@ CALCULATE(
     [Total Revenue],
     cleaned_supply_chain[late_delivery_risk] = 1
 )
+### 📸 Dashboard Screenshots
+
+#### Page 1: Executive Overview
+![Executive Overview](dashboard/page1.png)
+
+#### Page 2: Carrier Performance
+![Carrier Performance](dashboard/page2.png)
+
+#### Page 3: Regional & Category Risk
+![Regional Risk](dashboard/page3.png)
 
 Avg Delay Days = AVERAGE(cleaned_supply_chain[days_for_shipping_real]) - AVERAGE(cleaned_supply_chain[days_for_shipment_scheduled])
