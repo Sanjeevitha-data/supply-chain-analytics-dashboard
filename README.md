@@ -105,15 +105,15 @@ Explores regional and product-category patterns to highlight variations in suppl
 
 ## Dashboard Screenshots
 
-### Page 1 — Executive Overview
+### Executive Overview
 ![Executive Overview](Executive Overview.png)
 [View Executive Overview image](Executive Overview.png)
 
-### Page 2 — Carrier Performance
+### Carrier Performance
 ![Carrier Performance](Carrier Performance.png)
 [View Carrier Performance image](Carrier Performance.png)
 
-### Page 3 — Regional & Category Risk
+### Regional & Category Risk
 ![Regional & Category Risk](Regional and Category Risk.png)
 [View Regional and Category Risk image](Regional and Category Risk.png)
 
